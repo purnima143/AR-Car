@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 2fccfeb0fb80e432c9b6ba50848c1cd1
+timeCreated: 1516640616
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: The Rave Is In Your Pants
+  fontNames:
+  - The Rave Is In Your Pants
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 84abb0e4db5244f64b69545191499363
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Area
+    100002: Area_001
+    100004: Circle
+    100006: Circle_001
+    100008: Circle_002
+    100010: Circle_003
+    100012: Circle_004
+    100014: Circle_005
+    100016: Circle_006
+    100018: Circle_007
+    100020: Circle_008
+    100022: Circle_009
+    100024: Circle_010
+    100026: Circle_011
+    100028: Circle_012
+    100030: Circle_013
+    100032: Circle_014
+    100034: Circle_015
+    100036: Circle_016
+    100038: Circle_017
+    100040: Circle_018
+    100042: Circle_019
+    100044: Circle_020
+    100046: Circle_021
+    100048: Circle_022
+    100050: Circle_023
+    100052: Circle_024
+    100054: Circle_025
+    100056: Circle_026
+    100058: Circle_027
+    100060: Circle_028
+    100062: Circle_029
+    100064: Circle_030
+    100066: Circle_031
+    100068: Circle_032
+    100070: Circle_033
+    100072: Circle_034
+    100074: Circle_035
+    100076: Circle_036
+    100078: Circle_037
+    100080: Circle_038
+    100082: Circle_039
+    100084: Circle_040
+    100086: Circle_041
+    100088: Circle_042
+    100090: Circle_043
+    100092: Circle_044
+    100094: Circle_045
+    100096: Circle_046
+    100098: Circle_047
+    100100: Circle_048
+    100102: Circle_049
+    100104: Circle_050
+    100106: Circle_051
+    100108: Circle_052
+    100110: Circle_053
+    100112: Circle_054
+    100114: Plane
+    100116: Point
+    100118: //RootNode
+    100120: Text
+    400000: Area
+    400002: Area_001
+    400004: Circle
+    400006: Circle_001
+    400008: Circle_002
+    400010: Circle_003
+    400012: Circle_004
+    400014: Circle_005
+    400016: Circle_006
+    400018: Circle_007
+    400020: Circle_008
+    400022: Circle_009
+    400024: Circle_010
+    400026: Circle_011
+    400028: Circle_012
+    400030: Circle_013
+    400032: Circle_014
+    400034: Circle_015
+    400036: Circle_016
+    400038: Circle_017
+    400040: Circle_018
+    400042: Circle_019
+    400044: Circle_020
+    400046: Circle_021
+    400048: Circle_022
+    400050: Circle_023
+    400052: Circle_024
+    400054: Circle_025
+    400056: Circle_026
+    400058: Circle_027
+    400060: Circle_028
+    400062: Circle_029
+    400064: Circle_030
+    400066: Circle_031
+    400068: Circle_032
+    400070: Circle_033
+    400072: Circle_034
+    400074: Circle_035
+    400076: Circle_036
+    400078: Circle_037
+    400080: Circle_038
+    400082: Circle_039
+    400084: Circle_040
+    400086: Circle_041
+    400088: Circle_042
+    400090: Circle_043
+    400092: Circle_044
+    400094: Circle_045
+    400096: Circle_046
+    400098: Circle_047
+    400100: Circle_048
+    400102: Circle_049
+    400104: Circle_050
+    400106: Circle_051
+    400108: Circle_052
+    400110: Circle_053
+    400112: Circle_054
+    400114: Plane
+    400116: Point
+    400118: //RootNode
+    400120: Text
+    2100000: Porsche_911_Carrera_black_001
+    2100002: Porsche_911_Carrera_white__Police_jpg
+    2100004: Porsche_911_Carrera_white
+    2100006: sarvedo
+    2100008: Mirror
+    2100010: rendsz_m_in
+    2100012: rendsz_m_out
+    2100014: wheels__image__12_wheel_texture_jpg
+    2100016: wheels__image05_jpg
+    2100018: Material_001
+    2100020: break_out
+    2100022: break_in
+    2100024: tires
+    2100026: Material_006
+    2100028: break
+    2100030: Material_001__Porsche_Logo_7_jpg
+    2100032: Chrome
+    2100034: Material_009
+    2100036: glass_blue
+    2100038: real_lamp_glass_red
+    2100040: Carrera_back_text_chrome
+    2100042: glass_red
+    2100044: Material_008
+    2100046: Chrome_clear
+    2100048: Material_003
+    2100050: korm_ny
+    2100052: inside_sits_white
+    2100054: inside_sits_color
+    2100056: inside_muszer
+    2100058: back_lamp
+    2100060: back_lamp_SIDE
+    2100062: Chrome_2
+    2100064: real_lamp_glass_white
+    2100066: Lamp_1
+    2100068: Material_002
+    2100070: lamps_inside
+    2100072: Material_007
+    2100074: windows
+    2100076: a
+    2100078: Material__Porsche-911_Carrera_4_Cabriolet_2001_1600x1200_wallpaper_03_jpg
+    2300000: Circle
+    2300002: Circle_001
+    2300004: Circle_002
+    2300006: Circle_003
+    2300008: Circle_004
+    2300010: Circle_005
+    2300012: Circle_006
+    2300014: Circle_007
+    2300016: Circle_008
+    2300018: Circle_009
+    2300020: Circle_010
+    2300022: Circle_011
+    2300024: Circle_012
+    2300026: Circle_013
+    2300028: Circle_014
+    2300030: Circle_015
+    2300032: Circle_016
+    2300034: Circle_017
+    2300036: Circle_018
+    2300038: Circle_019
+    2300040: Circle_020
+    2300042: Circle_021
+    2300044: Circle_022
+    2300046: Circle_023
+    2300048: Circle_024
+    2300050: Circle_025
+    2300052: Circle_026
+    2300054: Circle_027
+    2300056: Circle_028
+    2300058: Circle_029
+    2300060: Circle_030
+    2300062: Circle_031
+    2300064: Circle_032
+    2300066: Circle_033
+    2300068: Circle_034
+    2300070: Circle_035
+    2300072: Circle_036
+    2300074: Circle_037
+    2300076: Circle_038
+    2300078: Circle_039
+    2300080: Circle_040
+    2300082: Circle_041
+    2300084: Circle_042
+    2300086: Circle_043
+    2300088: Circle_044
+    2300090: Circle_045
+    2300092: Circle_046
+    2300094: Circle_047
+    2300096: Circle_048
+    2300098: Circle_049
+    2300100: Circle_050
+    2300102: Circle_051
+    2300104: Circle_052
+    2300106: Circle_053
+    2300108: Circle_054
+    2300110: Plane
+    2300112: Text
+    3300000: Circle
+    3300002: Circle_001
+    3300004: Circle_002
+    3300006: Circle_003
+    3300008: Circle_004
+    3300010: Circle_005
+    3300012: Circle_006
+    3300014: Circle_007
+    3300016: Circle_008
+    3300018: Circle_009
+    3300020: Circle_010
+    3300022: Circle_011
+    3300024: Circle_012
+    3300026: Circle_013
+    3300028: Circle_014
+    3300030: Circle_015
+    3300032: Circle_016
+    3300034: Circle_017
+    3300036: Circle_018
+    3300038: Circle_019
+    3300040: Circle_020
+    3300042: Circle_021
+    3300044: Circle_022
+    3300046: Circle_023
+    3300048: Circle_024
+    3300050: Circle_025
+    3300052: Circle_026
+    3300054: Circle_027
+    3300056: Circle_028
+    3300058: Circle_029
+    3300060: Circle_030
+    3300062: Circle_031
+    3300064: Circle_032
+    3300066: Circle_033
+    3300068: Circle_034
+    3300070: Circle_035
+    3300072: Circle_036
+    3300074: Circle_037
+    3300076: Circle_038
+    3300078: Circle_039
+    3300080: Circle_040
+    3300082: Circle_041
+    3300084: Circle_042
+    3300086: Circle_043
+    3300088: Circle_044
+    3300090: Circle_045
+    3300092: Circle_046
+    3300094: Circle_047
+    3300096: Circle_048
+    3300098: Circle_049
+    3300100: Circle_050
+    3300102: Circle_051
+    3300104: Circle_052
+    3300106: Circle_053
+    3300108: Circle_054
+    3300110: Plane
+    3300112: Text
+    4300000: Circle_054
+    4300002: Circle_053
+    4300004: Circle_052
+    4300006: Circle_051
+    4300008: Circle_050
+    4300010: Circle_049
+    4300012: Circle_048
+    4300014: Circle_047
+    4300016: Circle_045
+    4300018: Circle_035
+    4300020: Circle_029
+    4300022: Circle_028
+    4300024: Circle_046
+    4300026: Circle_025
+    4300028: Circle_024
+    4300030: Circle_019
+    4300032: Circle_018
+    4300034: Circle_017
+    4300036: Circle_016
+    4300038: Circle_015
+    4300040: Circle_005
+    4300042: Plane
+    4300044: Circle_044
+    4300046: Circle_043
+    4300048: Circle_039
+    4300050: Circle_042
+    4300052: Circle_041
+    4300054: Text
+    4300056: Circle_040
+    4300058: Circle_038
+    4300060: Circle_037
+    4300062: Circle_036
+    4300064: Circle_034
+    4300066: Circle_033
+    4300068: Circle_032
+    4300070: Circle_031
+    4300072: Circle_030
+    4300074: Circle_003
+    4300076: Circle_027
+    4300078: Circle_026
+    4300080: Circle_023
+    4300082: Circle_022
+    4300084: Circle_021
+    4300086: Circle_020
+    4300088: Circle_014
+    4300090: Circle_013
+    4300092: Circle_012
+    4300094: Circle_011
+    4300096: Circle_010
+    4300098: Circle_009
+    4300100: Circle_008
+    4300102: Circle_007
+    4300104: Circle_006
+    4300106: Circle_004
+    4300108: Circle_002
+    4300110: Circle_001
+    4300112: Circle
+    7400000: Default Take
+    9500000: //RootNode
+    10800000: Area
+    10800002: Area_001
+    10800004: Point
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carrera_back_text_chrome
+    second: {fileID: 2100000, guid: 3ac8cb83cb04f4bc3aa256ab35a4fe3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: d3056b1f057e84271ad96fb197d5e25c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome_2
+    second: {fileID: 2100000, guid: 8b9ebc187304341fb81f3065af08127c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome_clear
+    second: {fileID: 2100000, guid: 8f9411f7cd4ba4c148abe3497ac7dd68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp_1
+    second: {fileID: 2100000, guid: b20e93fa901b44fb1810dd13ad408fdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: e1e1f39a8b1e0471da53cd94b44f4351, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001__Porsche_Logo_7_jpg
+    second: {fileID: 2100000, guid: 528b68d0ff8ba4622b03c3492c081345, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: 75755bc176b5b4aba8b711be2bdd769a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: 5147ec501f87c498e83827725f9147fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006
+    second: {fileID: 2100000, guid: ef170c1ba2b9d42e6815aac5f000d0db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_007
+    second: {fileID: 2100000, guid: cc750683807674acebd33a3d9f4f4824, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_008
+    second: {fileID: 2100000, guid: a3f7f98417af74128adc7335388cf99b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_009
+    second: {fileID: 2100000, guid: ff15faf18135649ba8ed1c390ca38661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__Porsche-911_Carrera_4_Cabriolet_2001_1600x1200_wallpaper_03_jpg
+    second: {fileID: 2100000, guid: a2436a77206284c8a97d76b1f00aba4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirror
+    second: {fileID: 2100000, guid: 4a3f6970293cd47d78326635030dea98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porsche_911_Carrera_black_001
+    second: {fileID: 2100000, guid: 258aae666dd7b4ef8b11db34d0e02d50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porsche_911_Carrera_white
+    second: {fileID: 2100000, guid: 011ca33fac1ab4064a307188c937b7db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Porsche_911_Carrera_white__Police_jpg
+    second: {fileID: 2100000, guid: 44f21e6e136634c93a79194953e878b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: a
+    second: {fileID: 2100000, guid: 34f605f5d3d984c9ba196ad2467239e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back_lamp
+    second: {fileID: 2100000, guid: b8c7d9e9b448845c4862c92ba912d344, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back_lamp_SIDE
+    second: {fileID: 2100000, guid: 9edd1ecfe6d594126bcafec5de1e49f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: break
+    second: {fileID: 2100000, guid: 33ed2b90e3e6b484f84107d3ef77e95d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: break_in
+    second: {fileID: 2100000, guid: 698ab74cbdb174fc7bfd23ef1b624453, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: break_out
+    second: {fileID: 2100000, guid: ae5d722bfdea74b338ac17e3360301b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_blue
+    second: {fileID: 2100000, guid: 3fc8ad5ea7ebb4cfb9bd1669bbb63ee1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_red
+    second: {fileID: 2100000, guid: 36e6a94fdcc45496ca81e27df2fbdea4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: inside_muszer
+    second: {fileID: 2100000, guid: 93fb6ff322b304c8492e5dbf34c978f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: inside_sits_color
+    second: {fileID: 2100000, guid: 73b6383d228c549668280fd248dba6ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: inside_sits_white
+    second: {fileID: 2100000, guid: ee3a7f69574bc4be5b43f1306f6407db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: korm_ny
+    second: {fileID: 2100000, guid: 1a82e60dfe6b6482db7147901cf07ffd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lamps_inside
+    second: {fileID: 2100000, guid: ea95e599888bc434c8eeffb93bc632c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: real_lamp_glass_red
+    second: {fileID: 2100000, guid: dddc8103233e741c7b0379c323e6f0c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: real_lamp_glass_white
+    second: {fileID: 2100000, guid: 6661e35c884094afcb4c44002783b8e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rendsz_m_in
+    second: {fileID: 2100000, guid: c08368ca98c774d068106f3b7ee0c0ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rendsz_m_out
+    second: {fileID: 2100000, guid: e174b287642af4bd59cf5d90d24ce605, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sarvedo
+    second: {fileID: 2100000, guid: c0ee53f107d5c4676acddf672ec6c43e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tires
+    second: {fileID: 2100000, guid: eca3ac6c7b29342e79ca088b180442a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels__image05_jpg
+    second: {fileID: 2100000, guid: 0fd5bccc02fc94fbda0adf3531177147, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels__image__12_wheel_texture_jpg
+    second: {fileID: 2100000, guid: 506c8609c8f094448b204552f51d4684, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: windows
+    second: {fileID: 2100000, guid: 89039ffa436d44ae9beaa3d79256f424, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

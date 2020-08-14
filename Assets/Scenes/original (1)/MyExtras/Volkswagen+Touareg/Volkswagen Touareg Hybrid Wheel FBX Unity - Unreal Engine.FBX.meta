@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 58d81709c0d874d0fb3649bef311c1a9
+timeCreated: 1516633609
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Brake_Caliper
+    100002: Brake_Disk
+    100004: Logo
+    100006: Rim
+    100008: Screw
+    100010: Tyre
+    100012: //RootNode
+    100014: Wheel_Valve
+    400000: Brake_Caliper
+    400002: Brake_Disk
+    400004: Logo
+    400006: Rim
+    400008: Screw
+    400010: Tyre
+    400012: //RootNode
+    400014: Wheel_Valve
+    2100000: Chrome Rim 1
+    2100002: Rubber Black
+    2100004: Chrome 2
+    2100006: Metal_Brake disk
+    2100008: Metal_ Brake Caliper
+    2100010: Chrome 1
+    2100012: Tyre 1
+    2100014: Tyre Bump
+    2300000: Brake_Caliper
+    2300002: Brake_Disk
+    2300004: Logo
+    2300006: Rim
+    2300008: Screw
+    2300010: Tyre
+    2300012: Wheel_Valve
+    3300000: Brake_Caliper
+    3300002: Brake_Disk
+    3300004: Logo
+    3300006: Rim
+    3300008: Screw
+    3300010: Tyre
+    3300012: Wheel_Valve
+    4300000: Rim
+    4300002: Wheel_Valve
+    4300004: Brake_Disk
+    4300006: Brake_Caliper
+    4300008: Screw
+    4300010: Logo
+    4300012: Tyre
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome 1
+    second: {fileID: 2100000, guid: ef70e8d53e3324cbaa151b9a8eda8861, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome 2
+    second: {fileID: 2100000, guid: a0621912ace264a338fe90a12371ad86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome Rim 1
+    second: {fileID: 2100000, guid: edfa24a5fac684b9bb3b0d12f579fb73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_ Brake Caliper
+    second: {fileID: 2100000, guid: f4f72cc447e5142eb88423df70988c2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Brake disk
+    second: {fileID: 2100000, guid: 765bbcc0ea37a43dba69fb38edaf4d89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber Black
+    second: {fileID: 2100000, guid: 8fd882c0023894310b4cf253bfd98382, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tyre 1
+    second: {fileID: 2100000, guid: 6be4d6711dbe64435acb04ec56ac9c02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tyre Bump
+    second: {fileID: 2100000, guid: 0878115e8508e43bc9c09df29eac2cab, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

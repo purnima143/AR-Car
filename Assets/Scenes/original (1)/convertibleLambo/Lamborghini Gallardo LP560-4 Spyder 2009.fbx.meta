@@ -1,0 +1,578 @@
+fileFormatVersion: 2
+guid: be0fb3d5979a44f259475f2eee760956
+timeCreated: 1516560459
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Brake caliper#1_001
+    100002: Brake caliper#1_003
+    100004: Brake caliper#2_001
+    100006: Brake caliper#2_003
+    100008: door_001
+    100010: door_003
+    100012: engine_001
+    100014: Front Brake Rotor#2_001
+    100016: Front Brake Rotor#2_002
+    100018: Front Brake Rotor#3_001
+    100020: Front Brake Rotor#3_002
+    100022: Group_001
+    100024: Group_002
+    100026: Group_003
+    100028: Group_004
+    100030: Lambo_001
+    100032: lambo_ga05_001
+    100034: lambo_ga10_001
+    100036: lambo_ga130_001
+    100038: lambo_ga17#1_001
+    100040: lambo_ga174_001
+    100042: lambo_ga175_001
+    100044: lambo_ga182_001
+    100046: lambo_ga183_001
+    100048: lambo_ga187_001
+    100050: lambo_ga188_001
+    100052: lambo_ga24_001
+    100054: //RootNode
+    100056: Lamborghini_001
+    100058: Lamborghini_002
+    100060: LED_001
+    100062: rim#2_001
+    100064: rim#2_003
+    100066: rim_001
+    100068: rim_003
+    100070: Tire#2_001
+    100072: Tire#2_003
+    100074: Tire_001
+    100076: Tire_003
+    100078: Windsheild_001
+    100080: Wing_001
+    400000: Brake caliper#1_001
+    400002: Brake caliper#1_003
+    400004: Brake caliper#2_001
+    400006: Brake caliper#2_003
+    400008: door_001
+    400010: door_003
+    400012: engine_001
+    400014: Front Brake Rotor#2_001
+    400016: Front Brake Rotor#2_002
+    400018: Front Brake Rotor#3_001
+    400020: Front Brake Rotor#3_002
+    400022: Group_001
+    400024: Group_002
+    400026: Group_003
+    400028: Group_004
+    400030: Lambo_001
+    400032: lambo_ga05_001
+    400034: lambo_ga10_001
+    400036: lambo_ga130_001
+    400038: lambo_ga17#1_001
+    400040: lambo_ga174_001
+    400042: lambo_ga175_001
+    400044: lambo_ga182_001
+    400046: lambo_ga183_001
+    400048: lambo_ga187_001
+    400050: lambo_ga188_001
+    400052: lambo_ga24_001
+    400054: //RootNode
+    400056: Lamborghini_001
+    400058: Lamborghini_002
+    400060: LED_001
+    400062: rim#2_001
+    400064: rim#2_003
+    400066: rim_001
+    400068: rim_003
+    400070: Tire#2_001
+    400072: Tire#2_003
+    400074: Tire_001
+    400076: Tire_003
+    400078: Windsheild_001
+    400080: Wing_001
+    2100000: dbl_lambo_ga10_001
+    2100002: dbl_Brake caliper#2_001
+    2100004: dbl_rim_002
+    2100006: dbl_lambo_ga10_003
+    2100008: dbl_lambo_ga05_005
+    2100010: dbl_lambo_ga175_008
+    2100012: dbl_lambo_ga175_001
+    2100014: dbl_lambo_ga175_002
+    2100016: dbl_lambo_ga175_006
+    2100018: dbl_lambo_ga10_002
+    2100020: dbl_lambo_ga05_010
+    2100022: dbl_door_001
+    2100024: No Name
+    2100026: dbl_Front Brake Rotor#3_002
+    2100028: dbl_lambo_ga174_001
+    2100030: dbl_lambo_ga175_003
+    2100032: dbl_lambo_ga175_004
+    2100034: dbl_lambo_ga175_005
+    2100036: dbl_lambo_ga175_007
+    2100038: dbl_lambo_ga24_003
+    2100040: dbl_lambo_ga05_006
+    2100042: dbl_Front Brake Rotor#3_001
+    2100044: dbl_lambo_ga05_001
+    2100046: dbl_lambo_ga05_002
+    2100048: dbl_lambo_ga187_001
+    2100050: dbl_lambo_ga05_003
+    2100052: dbl_lambo_ga05_004
+    2100054: dbl_lambo_ga05_007
+    2100056: dbl_lambo_ga05_008
+    2100058: dbl_lambo_ga05_009
+    2100060: dbl_lambo_ga24_001
+    2100062: dbl_lambo_ga05_011
+    2100064: dbl_Wing_001
+    2100066: dbl_lambo_ga10_004
+    2100068: dbl_lambo_ga24_002
+    2100070: dbl_Group_001
+    2100072: dbl_Group_005
+    2100074: dbl_Group_004
+    2100076: dbl_Group_006
+    2100078: dbl_Group_003
+    2100080: dbl_Group_002
+    2100082: dbl_lambo_ga187_002
+    2100084: dbl_lambo_ga187_003
+    2100086: dbl_lambo_ga10_005
+    2100088: dbl_lambo_ga10_006
+    2100090: dbl_Front Brake Rotor#3_003
+    2100092: dbl_rim_001
+    2100094: dbl_rim_003
+    2300000: Brake caliper#1_001
+    2300002: Brake caliper#1_003
+    2300004: Brake caliper#2_001
+    2300006: Brake caliper#2_003
+    2300008: door_001
+    2300010: door_003
+    2300012: engine_001
+    2300014: Front Brake Rotor#2_001
+    2300016: Front Brake Rotor#2_002
+    2300018: Front Brake Rotor#3_001
+    2300020: Front Brake Rotor#3_002
+    2300022: Group_001
+    2300024: Group_002
+    2300026: Group_003
+    2300028: Group_004
+    2300030: Lambo_001
+    2300032: lambo_ga05_001
+    2300034: lambo_ga10_001
+    2300036: lambo_ga130_001
+    2300038: lambo_ga17#1_001
+    2300040: lambo_ga174_001
+    2300042: lambo_ga175_001
+    2300044: lambo_ga182_001
+    2300046: lambo_ga183_001
+    2300048: lambo_ga187_001
+    2300050: lambo_ga188_001
+    2300052: lambo_ga24_001
+    2300054: Lamborghini_001
+    2300056: Lamborghini_002
+    2300058: LED_001
+    2300060: rim#2_001
+    2300062: rim#2_003
+    2300064: rim_001
+    2300066: rim_003
+    2300068: Tire#2_001
+    2300070: Tire#2_003
+    2300072: Tire_001
+    2300074: Tire_003
+    2300076: Windsheild_001
+    2300078: Wing_001
+    3300000: Brake caliper#1_001
+    3300002: Brake caliper#1_003
+    3300004: Brake caliper#2_001
+    3300006: Brake caliper#2_003
+    3300008: door_001
+    3300010: door_003
+    3300012: engine_001
+    3300014: Front Brake Rotor#2_001
+    3300016: Front Brake Rotor#2_002
+    3300018: Front Brake Rotor#3_001
+    3300020: Front Brake Rotor#3_002
+    3300022: Group_001
+    3300024: Group_002
+    3300026: Group_003
+    3300028: Group_004
+    3300030: Lambo_001
+    3300032: lambo_ga05_001
+    3300034: lambo_ga10_001
+    3300036: lambo_ga130_001
+    3300038: lambo_ga17#1_001
+    3300040: lambo_ga174_001
+    3300042: lambo_ga175_001
+    3300044: lambo_ga182_001
+    3300046: lambo_ga183_001
+    3300048: lambo_ga187_001
+    3300050: lambo_ga188_001
+    3300052: lambo_ga24_001
+    3300054: Lamborghini_001
+    3300056: Lamborghini_002
+    3300058: LED_001
+    3300060: rim#2_001
+    3300062: rim#2_003
+    3300064: rim_001
+    3300066: rim_003
+    3300068: Tire#2_001
+    3300070: Tire#2_003
+    3300072: Tire_001
+    3300074: Tire_003
+    3300076: Windsheild_001
+    3300078: Wing_001
+    4300000: lambo_ga17#1_001
+    4300002: door_003
+    4300004: Windsheild_001
+    4300006: door_001
+    4300008: LED_001
+    4300010: lambo_ga183_001
+    4300012: lambo_ga182_001
+    4300014: lambo_ga174_001
+    4300016: lambo_ga175_001
+    4300018: Lamborghini_002
+    4300020: Lamborghini_001
+    4300022: engine_001
+    4300024: lambo_ga05_001
+    4300026: Wing_001
+    4300028: Lambo_001
+    4300030: lambo_ga24_001
+    4300032: Group_004
+    4300034: Group_003
+    4300036: Group_002
+    4300038: Group_001
+    4300040: lambo_ga130_001
+    4300042: lambo_ga188_001
+    4300044: lambo_ga187_001
+    4300046: lambo_ga10_001
+    4300048: Brake caliper#2_003
+    4300050: Front Brake Rotor#3_002
+    4300052: rim_003
+    4300054: Tire_003
+    4300056: rim#2_003
+    4300058: Tire#2_003
+    4300060: Brake caliper#1_003
+    4300062: Front Brake Rotor#2_002
+    4300064: rim#2_001
+    4300066: Tire#2_001
+    4300068: Brake caliper#1_001
+    4300070: Front Brake Rotor#2_001
+    4300072: Brake caliper#2_001
+    4300074: Front Brake Rotor#3_001
+    4300076: rim_001
+    4300078: Tire_001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 85a23e67d6b8f422b8bd2e77db4bfc60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Brake caliper#2_001
+    second: {fileID: 2100000, guid: 97bdd360a585f477bb5a52d6d57165b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Front Brake Rotor#3_001
+    second: {fileID: 2100000, guid: 655ec575865d54efeb75ba9b250246f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Front Brake Rotor#3_002
+    second: {fileID: 2100000, guid: f8fe7ba7aff2c47afaa31766a982e988, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Front Brake Rotor#3_003
+    second: {fileID: 2100000, guid: 57e2dbe9fca1a4532b1f18a1bbf3a4b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_001
+    second: {fileID: 2100000, guid: 01fd0b0b40f0f41edad1fb26b018bd6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_002
+    second: {fileID: 2100000, guid: 9bf0d2e4a86114fc4865b27d6b36b63f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_003
+    second: {fileID: 2100000, guid: cafbfc04ab3fc4d39acf48cd2912a443, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_004
+    second: {fileID: 2100000, guid: 9c58777e797f74a4880fb13dc18909d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_005
+    second: {fileID: 2100000, guid: c58f26240227f4dceb44cbc1f144803d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Group_006
+    second: {fileID: 2100000, guid: d13835fac2db04f8faac9cfcd1f1a86b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_Wing_001
+    second: {fileID: 2100000, guid: 999dabd0c312c4cd2adccc41d6b0668c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_door_001
+    second: {fileID: 2100000, guid: 2aedd8a7ef67142e38f9db419a86e6a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga05_001
+    second: {fileID: 2100000, guid: 3e713ca68b1b1464dacb5fcea3332fa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga05_002
+    second: {fileID: 2100000, guid: 0294bad24a20240d79a5b522b3ee3f1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga05_003
+    second: {fileID: 2100000, guid: 7d0eb9c4266fb4b059ba02f2ca836538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga05_004
+    second: {fileID: 2100000, guid: 8f5aa9a87616144a18e8c587fcf9e89a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga05_005
+    second: {fileID: 2100000, guid: adc276209431b4f92959308eef2016ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga05_006
+    second: {fileID: 2100000, guid: 4391dbcb8464645468daff08ca86343b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga05_007
+    second: {fileID: 2100000, guid: b35ae5fab92db4843bc261eaac0cdd11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga05_008
+    second: {fileID: 2100000, guid: c03d3c7747ee943a1a555e0f71cbd640, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga05_009
+    second: {fileID: 2100000, guid: a2d6b3712a0be4a03adf4b86af3bac65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga05_010
+    second: {fileID: 2100000, guid: 8e161aa5d30ad4698bad3b2d5430f6b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga05_011
+    second: {fileID: 2100000, guid: f3d2b8c0c14d94fb6bf1cad5c033620e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga10_001
+    second: {fileID: 2100000, guid: 9385d548a7dcf4213839f3cc8d6b6cb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga10_002
+    second: {fileID: 2100000, guid: 174d0304fdfcd448ca7598b2794590b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga10_003
+    second: {fileID: 2100000, guid: ff76b9b9c31324991a6f9b256db8f76b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga10_004
+    second: {fileID: 2100000, guid: 87320ff2fe7244bc5af95882e849d0fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga10_005
+    second: {fileID: 2100000, guid: 571339514bb344e508b7b468a845f89a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga10_006
+    second: {fileID: 2100000, guid: 7414e826e0ab748b29a2342190e40e25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga174_001
+    second: {fileID: 2100000, guid: 873bff0cb34f34ab087c2935c945ad33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga175_001
+    second: {fileID: 2100000, guid: cd64f7af9abaa4456b3f803b02d46667, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga175_002
+    second: {fileID: 2100000, guid: e6b62ee099cea4399afecaea73dd3833, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga175_003
+    second: {fileID: 2100000, guid: 8760a86841e2a459db99482a26de7b7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga175_004
+    second: {fileID: 2100000, guid: e96a9a32e3ad84e9ab8340076284119c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga175_005
+    second: {fileID: 2100000, guid: cbbcf8c962f88439885c2fafeb565836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga175_006
+    second: {fileID: 2100000, guid: 74d9314749e4c45d6bfb9b1fdd9a03eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga175_007
+    second: {fileID: 2100000, guid: 8f0d3be36b3e7488d88acaffa6a25c25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga175_008
+    second: {fileID: 2100000, guid: 3f5861bdc48424e41bad21bb304ae714, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga187_001
+    second: {fileID: 2100000, guid: cf15a7020091f49f69ac6c7142cd71c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga187_002
+    second: {fileID: 2100000, guid: 3c8514dba4b6a4028aa5d83ddc41cf84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga187_003
+    second: {fileID: 2100000, guid: 214df34dcae1f4c54b7ebc424e24682e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga24_001
+    second: {fileID: 2100000, guid: 0d1e7b41cf1c649dc8e2cdd0f3edb868, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga24_002
+    second: {fileID: 2100000, guid: 14d7a56ffc77546e9a996eb2080656b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_lambo_ga24_003
+    second: {fileID: 2100000, guid: 4bd5ce16be12e46f4b5e28e063b072da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_rim_001
+    second: {fileID: 2100000, guid: 7e3cd0777921040c2b036da41e8872e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_rim_002
+    second: {fileID: 2100000, guid: 11a7e9bcbc3b84b948b8590e4a1ff9fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dbl_rim_003
+    second: {fileID: 2100000, guid: d883b4c283cd948578844af19aa2edb1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
