@@ -1,11 +1,11 @@
 ![AR-CASCA](https://user-images.githubusercontent.com/57852378/129159832-fa6eb6f1-cedc-4d53-beb7-74a240065577.png)
 
 
-
-## Objective
-
 AR Car Showroom is an augmented reality app for  Android platforms that recreates the lifelike experience of examining a real-sized luxury vehicle in any location, providing users a unique chance to check out the desired car without visiting a salon.
 Developed as a showcase solution it allows car brands to demonstrate autos to their clients all over the world. 
+
+## Problem statement
+The businesses began closing their physical locations last year due to the COVID-19 pandemic, it affects alot of industry, absent of face-to-face interactions with customers. 
 
 ## Tech stack
 **Unity(Game Engine):** 
@@ -56,6 +56,8 @@ The virtual experience would resemble the real-life situation — users would be
 ![image](https://user-images.githubusercontent.com/57852378/129164930-13fee76c-0dc2-4b27-96f3-1712b5393b2d.png)
 
 ## Result
+In the automobile industry, there are multiple areas where AR can streamline production processes, reduce costs and increase turn-around times. While these do excite the new age customer, the application of AR in production is only in infancy. There is enhanced collaboration, visualizing company data and production information, as well as more hands-on uses as detailed above are set to change the way vehicles and other products are produced in the very near future.
+
 Our highly experienced developers and 3D artists have managed to create an astonishing product that puts an unforgettable AR experience right at user’s fingertips (and straight onto their mobile device) and eliminates the need of the physical presence of a person in a certain place.
 
 ## Get the experience
