@@ -7,6 +7,19 @@
 AR Car Showroom is an augmented reality app for  Android platforms that recreates the lifelike experience of examining a real-sized luxury vehicle in any location, providing users a unique chance to check out the desired car without visiting a salon.
 Developed as a showcase solution it allows car brands to demonstrate autos to their clients all over the world. 
 
+## Tech stack
+**Unity(Game Engine):** 
+- Unity is a cross-platform game engine developed by Unity Technologies.
+- The engine can be used to create 3D, 2D, virtual reality, and augmented reality games, as well as simulation and other experiences.
+
+**Vuforia:**
+- Vuforia is an augmented reality software development kit (SDK) for mobile devices that enables the creation of augmented reality applications.
+- It uses computer vision technology to recognize and track planar images and 3D objects in real time.
+
+**Wit Ai:** 
+- Users enjoy a hands-free mobile experience while driving, working out, cooking. Developers use Wit to easily build a voice interface for their app.
+-  Wit.ai makes it easy for developers to build applications and devices that you can talk or text to their vision is to empower developers with an open and extensible natural language platform. Wit.ai learns human language from every interaction, and leverages the community: what's learned is shared across developers.
+
 
   
 ## Features
@@ -44,4 +57,12 @@ The virtual experience would resemble the real-life situation — users would be
 
 ## Result
 Our highly experienced developers and 3D artists have managed to create an astonishing product that puts an unforgettable AR experience right at user’s fingertips (and straight onto their mobile device) and eliminates the need of the physical presence of a person in a certain place.
+
+## Get the experience
+See how our AR Casca looks like in action
+
+
+
+https://user-images.githubusercontent.com/57852378/129170285-e8a7ee78-b206-45d0-8e55-487e64bdc1ec.mp4
+
 
