@@ -1,5 +1,10 @@
 ![AR-CASCA](https://user-images.githubusercontent.com/57852378/129159832-fa6eb6f1-cedc-4d53-beb7-74a240065577.png)
 
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+
 
 AR Car Showroom is an augmented reality app for  Android platforms that recreates the lifelike experience of examining a real-sized luxury vehicle in any location, providing users a unique chance to check out the desired car without visiting a salon.
 Developed as a showcase solution it allows car brands to demonstrate autos to their clients all over the world. 
