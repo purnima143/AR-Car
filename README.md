@@ -2,17 +2,17 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 
+## Problem statement  :disappointed:
+The businesses began closing their physical locations last year due to the COVID-19 pandemic, it affects alot of industry, absent of face-to-face interactions with customers. 
+Customers can't go to buy a car because of pandemic even after pandemic situation it becomes stressful to buy a car by going to showrrom ,see varities of car features, different colours and at the end couldn't find one for them. Car dealers aren’t happy with the situation. Getting people into auto dealerships is becoming increasingly difficult, and millennial customers, in particular, are resisting taking part in traditional dealer/customer negotiations.
 
+## Solution :smile:
 AR Car Showroom is an augmented reality app for  Android platforms that recreates the lifelike experience of examining a real-sized luxury vehicle in any location, providing users a unique chance to check out the desired car without visiting a salon.
 Developed as a showcase solution it allows car brands to demonstrate autos to their clients all over the world. 
 
-## Problem statement
-The businesses began closing their physical locations last year due to the COVID-19 pandemic, it affects alot of industry, absent of face-to-face interactions with customers. 
-Customers can't go to buy a car because of pandemic even after pandemic situation it becomes stressful to buy a car by going to showrrom ,see varities of car features, different colours and at the end couldn't find one for them. Car dealers aren’t happy with the situation. Getting people into auto dealerships is becoming increasingly difficult, and millennial customers, in particular, are resisting taking part in traditional dealer/customer negotiations.
-## Tech stack
+## Tech stack :computer:
 **Unity(Game Engine):** 
 - Unity is a cross-platform game engine developed by Unity Technologies.
 - The engine can be used to create 3D, 2D, virtual reality, and augmented reality games, as well as simulation and other experiences.
@@ -27,7 +27,7 @@ Customers can't go to buy a car because of pandemic even after pandemic situatio
 
 
   
-## Features
+## Features :loudspeaker:
 
 AR-CASCA Car Showroom would provide a highly realistic visualization of the luxury vehicle, bringing the automotive showroom on a platter to the customer. 
 
@@ -38,15 +38,15 @@ AR-CASCA Car Showroom would provide a highly realistic visualization of the luxu
 -  By entering inside, potential car owners would see if the car they planned to buy would be convenient to drive. Clients would use  Android device and hold it in front of an area they want to see a vehicle in. 
 
 
-  ## Methodology
+  ## Methodology :sparkles:
 
 ![image](https://user-images.githubusercontent.com/57852378/129164562-1ff8a139-476b-43c9-8690-8db1b4566a58.png)
 
-## Car models
+## Car models :fire:
 ![image](https://user-images.githubusercontent.com/57852378/129165599-6876887c-2d79-47be-a0a7-63d466c83867.png)
 
 
-  ## How it works
+  ## How it works :smirk:
   
 
 - Customers can hold a phone camera in front of them and visualize a car. With just a few swipes, it is possible to rotate, change the color, scale, zoom, and choose the wheels.
@@ -56,16 +56,16 @@ The virtual experience would resemble the real-life situation — users would be
 - Viewers would be able to enjoy a 3D walk around the car and observe its features which are possible only with real objects. 
 
 
-## Benefits
+## Benefits :heart_eyes:
 
 ![image](https://user-images.githubusercontent.com/57852378/129164930-13fee76c-0dc2-4b27-96f3-1712b5393b2d.png)
 
-## Result
+## Result :relaxed:
 In the automobile industry, there are multiple areas where AR can streamline production processes, reduce costs and increase turn-around times. While these do excite the new age customer, the application of AR in production is only in infancy. There is enhanced collaboration, visualizing company data and production information, as well as more hands-on uses as detailed above are set to change the way vehicles and other products are produced in the very near future.
 
 Our highly experienced developers and 3D artists have managed to create an astonishing product that puts an unforgettable AR experience right at user’s fingertips (and straight onto their mobile device) and eliminates the need of the physical presence of a person in a certain place.
 
-## Get the experience
+## Get the experience :boom: :tada:
 See how our AR Casca looks like in action
 
 
