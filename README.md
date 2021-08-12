@@ -6,7 +6,7 @@ Developed as a showcase solution it allows car brands to demonstrate autos to th
 
 ## Problem statement
 The businesses began closing their physical locations last year due to the COVID-19 pandemic, it affects alot of industry, absent of face-to-face interactions with customers. 
-
+Customers can't go to buy a car because of pandemic even after pandemic situation it becomes stressful to buy a car by going to showrrom ,see varities of car features, different colours and at the end couldn't find one for them. Car dealers aren’t happy with the situation. Getting people into auto dealerships is becoming increasingly difficult, and millennial customers, in particular, are resisting taking part in traditional dealer/customer negotiations.
 ## Tech stack
 **Unity(Game Engine):** 
 - Unity is a cross-platform game engine developed by Unity Technologies.
