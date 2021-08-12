@@ -8,14 +8,6 @@ AR Car Showroom is an augmented reality app for  Android platforms that recreate
 Developed as a showcase solution it allows car brands to demonstrate autos to their clients all over the world. 
 
 
-## Benefits
-
-- Provides strong values in marketing .
-- Customers can observe hyper-realistic car models.
-- The possibility to place car models anywhere, at any time.
-- Possibility to “walk” near a car as if in reality and look inside remotely.
-
-
   
 ## Features
 
@@ -28,4 +20,28 @@ AR-CASCA Car Showroom would provide a highly realistic visualization of the luxu
 -  By entering inside, potential car owners would see if the car they planned to buy would be convenient to drive. Clients would use  Android device and hold it in front of an area they want to see a vehicle in. 
 
 
+  ## Methodology
+
+![image](https://user-images.githubusercontent.com/57852378/129164562-1ff8a139-476b-43c9-8690-8db1b4566a58.png)
+
+## Car models
+![image](https://user-images.githubusercontent.com/57852378/129165599-6876887c-2d79-47be-a0a7-63d466c83867.png)
+
+
+  ## How it works
   
+
+- Customers can hold a phone camera in front of them and visualize a car. With just a few swipes, it is possible to rotate, change the color, scale, zoom, and choose the wheels.
+The virtual experience would resemble the real-life situation — users would be able to rotate, move, enter inside and even divide it into parts.
+- The user can give command for closing opening of door,windows and also for starting engine.
+- The user is able to see in how the car looks inside (steering wheel, rev counter, sat nav, gear level, and other components). 
+- Viewers would be able to enjoy a 3D walk around the car and observe its features which are possible only with real objects. 
+
+
+## Benefits
+
+![image](https://user-images.githubusercontent.com/57852378/129164930-13fee76c-0dc2-4b27-96f3-1712b5393b2d.png)
+
+## Result
+Our highly experienced developers and 3D artists have managed to create an astonishing product that puts an unforgettable AR experience right at user’s fingertips (and straight onto their mobile device) and eliminates the need of the physical presence of a person in a certain place.
+
